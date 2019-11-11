@@ -1,0 +1,12 @@
+name: USDOT_SDI_RuralSpeed
+title: USDOT_SDI_RuralSpeed
+username:
+account: subasish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 948048
+bundleId: 2107227
+url: https://subasish.shinyapps.io/USDOT_SDI_RuralSpeed/
+when: 1558731148.43544
+asMultiple: FALSE
+asStatic: FALSE
